@@ -8,6 +8,8 @@ Github : <https://github.com/ldmaroto/stwrt-sketch>
 
 LinkedIn: <https://www.linkedin.com/in/ldmaroto>
 
+![Controller Board](/images/Arduino_Due.webp "Arduino Due")
+
 ## Scope
 
 This project is releated to build a Stewart Platform and this repository has de source code of the Stewart Platform. The controller board is a Arduino Due, based on the Atmel SAM3X8E ARM Cortex-M3 CPU, a 32-bit ARM core microcontroller. Detailed information about the controller board can be obtained at [Arduino Due Website](https://store.arduino.cc/products/arduino-due).
