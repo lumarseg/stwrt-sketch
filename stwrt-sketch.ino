@@ -4,7 +4,7 @@
    File: stwrt-sketch.ino
    Hardware: Arduino Due and Adafruit 16 x 12-bit PWM
 
-   Version number: v0.0.1-NIGHTLY
+   Version number: v0.0.3-NIGHTLY
    Created: August 2022
    Author : Luis Diego Maroto Segura
    Github : https://github.com/ldmaroto/stwrt-sketch
