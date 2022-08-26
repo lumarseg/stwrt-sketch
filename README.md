@@ -12,7 +12,8 @@ LinkedIn: <https://www.linkedin.com/in/ldmaroto>
 
 This project is releated to build a Stewart Platform and this repository has de source code of the Stewart Platform. The controller board is an Arduino Due, based on the Atmel SAM3X8E ARM Cortex-M3 CPU, a 32-bit ARM core microcontroller. Detailed information about the controller board can be obtained at [Arduino Due Website](https://store.arduino.cc/products/arduino-due).
 
-**Related Repositories**
+## Related Repositories
+
 This repository is part of other repositories related to the project.
 
 * CAD files and BOM list: <https://github.com/ldmaroto/stwrt-cad>
