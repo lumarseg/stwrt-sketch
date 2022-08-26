@@ -1,6 +1,6 @@
 # STWRT-SKETCH
 
-Stewart Platform Project - Sketch Code | v0.0.1-NIGHTLY
+Stewart Platform Project - Sketch Code | v0.0.2-NIGHTLY
 
 No comment yet.
 
