@@ -2,11 +2,11 @@
 
 Stewart Platform Project - Sketch Code | v0.0.3-NIGHTLY
 
-Author : Luis Diego Maroto Segura
+Author : Luis Maroto
 
-Github : <https://github.com/ldmaroto/stwrt-sketch>
+Github : <https://github.com/lumarseg/stwrt-sketch>
 
-LinkedIn: <https://www.linkedin.com/in/ldmaroto>
+LinkedIn: <https://www.linkedin.com/in/lumarseg>
 
 ## Scope
 
@@ -16,13 +16,13 @@ This project is releated to build a Stewart Platform and this repository has de 
 
 This repository is part of other repositories related to the project.
 
-* CAD files and BOM list: <https://github.com/ldmaroto/stwrt-cad>
+* CAD files and BOM list: <https://github.com/lumarseg/stwrt-cad>
 
-* Model Based System Engineering: <https://github.com/ldmaroto/stwrt-mbse>
+* Model Based System Engineering: <https://github.com/lumarseg/stwrt-mbse>
 
-* Documents and support: <https://github.com/ldmaroto/stwrt-docs>
+* Documents and support: <https://github.com/lumarseg/stwrt-docs>
 
-* Simulation and Digital Twin: <https://github.com/ldmaroto/stwrt-dt>
+* Simulation and Digital Twin: <https://github.com/lumarseg/stwrt-dt>
 
 ## License
 
